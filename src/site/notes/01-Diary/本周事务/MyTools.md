@@ -5,7 +5,11 @@
 
 发布于：
 * [实用工具 - 飞书云文档](https://bvb1vt2cr9.feishu.cn/docx/UHU2dXJR9ohE7KxjOg3cL6Qyntf)
+* [my tools](https://test2-six-lovat.vercel.app/01-diary/my-tools/)
 
+宗旨是：
+完全脱离鼠标和触控板！
+让操作飞起来！
 
 1. [1 utools](#1%20utools)
 	1. [1.1 open software](#1.1%20open%20software)
